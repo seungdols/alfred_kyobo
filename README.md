@@ -4,7 +4,7 @@
 
 ## 사용 방법
 
-![usage](search kyobo.png)
+![usage](https://github.com/seungdols/alfred_kyobo/blob/main/search%20kyobo.png)
 
 1. Alfred 실행 (기본 단축키: `Option + Space`)
 2. `kyobo` 키워드 입력
